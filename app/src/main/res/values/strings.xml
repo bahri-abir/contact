@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="number_phone">number_phone</string>
+    <string name="name">name</string>
+    <string name="add_contact">add_contact</string>
+    <string name="update_contact">update_user</string>
+    <string name="delete_contact">delete_contact</string>
+</resources>
